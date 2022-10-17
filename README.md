@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lee-oconnor
 - My birthname is Sherri, but my nickname is Lee. Sorry for confusion.
-- 👀 I’m interested in learning everything FrontEnd! I come from a background in photography, where I spent most of my career shooting people and things for advertising and editorial clients.
+- 👀 I’m interested in learning everything Frontend! I come from a background in photography, where I spent most of my career shooting people and things for advertising and editorial clients.
 - I decided to pivot into a different career path last year, and chose tech because I've long been curious about how the devices we use everyday work behind the scenes! 
 - 🌱 I’m currently taking the React course through Scrimba 
 - 💞️ I’m looking to collaborate on any apps that help people in their everyday lives!
